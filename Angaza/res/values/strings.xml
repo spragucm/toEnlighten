@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Angaza</string>
+    
+    <string name = "fakeTruth">FakeTruth</string>
+    
+    <string name="truth">Truth</string>
+    <string name="acme">ACME</string>
+    <string name="more_truth"><u>More Truth -></u></string>
+    <string name="lorem_ipsum">
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat felis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam viverra scelerisque est vitae porta. Vestibulum dapibus diam a magna vehicula commodo. Nam pulvinar laoreet lectus, ac auctor erat fringilla ac. Fusce vel orci sed elit condimentum posuere eget sit amet sapien. Sed pretium ullamcorper risus, a vehicula erat convallis ut. Quisque massa justo, aliquet vel tempus ut, vehicula vitae nibh. Etiam dignissim finibus scelerisque. In id euismod nunc. Maecenas mattis, massa ut egestas placerat, purus ex auctor tellus, ac tincidunt justo elit vel lectus. In accumsan consequat turpis nec tincidunt. Nunc faucibus pellentesque euismod. Phasellus eu turpis libero. Cras massa elit, pretium ac odio sit amet, maximus gravida mi. Nam sed tristique nunc.
+	
+		Suspendisse nulla lorem, tempor sit amet convallis non, lacinia a purus. Nulla eu tempus risus, a aliquet ante. In hac habitasse platea dictumst. Maecenas pharetra massa mauris, id aliquet ante tincidunt id. Proin at rutrum mauris. Quisque lacinia, eros et consectetur sollicitudin, turpis purus porttitor diam, quis aliquam sem magna quis ante. Vivamus et sem congue, pellentesque magna vel, tincidunt libero.
+	
+		Pellentesque sed elit quis neque auctor elementum et ac mi. Cras lobortis varius cursus. Donec augue turpis, vehicula quis feugiat tempor, cursus nec nibh. Phasellus eu mauris sed nulla mollis bibendum. Fusce ac ornare nunc. Donec luctus venenatis suscipit. Aenean vitae laoreet ligula. Sed elementum, elit vel rhoncus auctor, ante risus eleifend tellus, ut molestie urna ipsum in metus.
+	
+		Nullam aliquet feugiat nibh, in accumsan arcu venenatis eu. Donec vestibulum dictum neque tristique commodo. Cras ex metus, rutrum a felis et, venenatis imperdiet diam. Integer suscipit odio ut lorem rhoncus, sed vulputate lorem dignissim. Sed et nibh iaculis, ultrices neque non, efficitur quam. Sed ac neque sed lorem facilisis elementum. Quisque vitae iaculis eros. Curabitur pharetra velit sed felis dignissim, eget rutrum dui finibus. Quisque convallis eleifend massa non euismod. Donec interdum nulla nec orci blandit, vel bibendum turpis varius. Curabitur id est sit amet orci ultricies sodales. Fusce ornare magna vitae nisl consequat, ullamcorper faucibus nibh molestie. Proin tincidunt rhoncus quam at hendrerit. Etiam posuere sapien sit amet tincidunt iaculis. Nulla at sodales tellus. Nunc iaculis ac eros sit amet lobortis.
+	
+		Aenean ac posuere nibh. Quisque non ante euismod, consectetur turpis quis, laoreet mi. Aliquam tincidunt nulla eget nunc laoreet varius. Quisque et erat tortor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse nunc nunc, sollicitudin eu feugiat quis, elementum at dolor. Vestibulum volutpat odio eu porttitor porta. Quisque egestas ultricies nibh. Vivamus in pellentesque risus, ut semper purus. Mauris maximus semper libero, nec convallis felis congue vel. Nullam vehicula laoreet lectus, quis finibus est efficitur vel. Suspendisse eget orci pharetra libero hendrerit luctus. Fusce viverra, nisi eu consectetur vestibulum, ex risus faucibus felis, at tincidunt urna lorem nec enim. Pellentesque sodales placerat leo consequat tempor. Morbi egestas, lorem ut molestie placerat, nisl magna tincidunt nunc, in convallis massa dolor ut orci.
+	</string>
+
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@color/truth_bg">
+    
+    <TextView 
+        android:id="@+id/truth_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:paddingLeft="@dimen/padding"
+        android:paddingTop="@dimen/padding"
+        android:paddingRight="@dimen/padding"
+        android:paddingBottom="0dp"
+        android:text="@string/lorem_ipsum"
+        android:textSize="@dimen/textSizeMedium"
+        android:textColor="@color/textColor"
+        android:maxLines = "10000"
+        android:scrollbars = "vertical"/>
+    
+	<TextView 
+	    android:id = "@+id/more_truth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:gravity="center"
+        android:padding = "@dimen/padding"
+        android:layout_margin="@dimen/margin"
+        android:text="@string/more_truth"
+        android:textSize="@dimen/textSizeSmall"
+        android:textColor="@color/textColor"/>
+
+</LinearLayout>
